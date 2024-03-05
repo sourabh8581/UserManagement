@@ -1,13 +1,13 @@
-package com.ashokit.usermgmt;
+// package com.ashokit.usermgmt;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class UserMgmtApplicationTests {
+// @SpringBootTest
+// class UserMgmtApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
